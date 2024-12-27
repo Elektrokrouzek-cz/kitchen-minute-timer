@@ -1434,7 +1434,7 @@
 			(pintype "passive")
 			(uuid "4cc2e587-aee3-422f-8cce-89d9c181803f")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Green.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1453,7 +1453,7 @@
 		(descr "LED, diameter 3.0mm, 2 pins")
 		(tags "LED diameter 3.0mm 2 pins")
 		(property "Reference" "D16"
-			(at 1.270001 -2.96 -45)
+			(at 1.270001 -2.96 135)
 			(layer "F.SilkS")
 			(uuid "a81f1000-01dd-4fa8-b55d-bedc0647c12c")
 			(effects
@@ -1464,7 +1464,7 @@
 			)
 		)
 		(property "Value" "3mm G"
-			(at 1.270001 2.96 -45)
+			(at 1.270001 2.96 135)
 			(layer "F.Fab")
 			(uuid "746b8288-08ce-4b46-a409-c7645ff0d12a")
 			(effects
@@ -1687,7 +1687,7 @@
 			(pintype "passive")
 			(uuid "f78db735-4242-42c6-8c25-26af7816c464")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Green.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1919,7 +1919,7 @@
 		(descr "LED, diameter 3.0mm, 2 pins")
 		(tags "LED diameter 3.0mm 2 pins")
 		(property "Reference" "D21"
-			(at 1.27 -2.96 -120)
+			(at 1.27 -2.96 60)
 			(layer "F.SilkS")
 			(uuid "fe74b44c-c4d3-4740-8482-b6a408d9bab0")
 			(effects
@@ -1930,7 +1930,7 @@
 			)
 		)
 		(property "Value" "3mm G"
-			(at 1.27 2.96 -120)
+			(at 1.27 2.96 60)
 			(layer "F.Fab")
 			(uuid "3476a775-d417-4165-8e47-bfde51074afc")
 			(effects
@@ -2153,7 +2153,7 @@
 			(pintype "passive")
 			(uuid "03906b89-6ac0-4d52-b468-3761e4a9818e")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Green.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4059,7 +4059,7 @@
 			(pintype "passive")
 			(uuid "c17cd458-158b-49c2-b59c-f936fa66657d")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Green.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5315,7 +5315,7 @@
 			(pintype "passive")
 			(uuid "6e6456b9-ab50-4053-8d17-a7972fe762db")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Green.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6720,7 +6720,7 @@
 		(descr "LED, diameter 3.0mm, 2 pins")
 		(tags "LED diameter 3.0mm 2 pins")
 		(property "Reference" "D23"
-			(at 1.27 -2.96 -150)
+			(at 1.27 -2.96 30)
 			(layer "F.SilkS")
 			(uuid "3eb470f5-6149-42d8-9fb0-d4ce3a8bf338")
 			(effects
@@ -6731,7 +6731,7 @@
 			)
 		)
 		(property "Value" "3mm G"
-			(at 1.27 2.96 -150)
+			(at 1.27 2.96 30)
 			(layer "F.Fab")
 			(uuid "d64ff2fb-b085-48d7-899e-ee6ab26582d2")
 			(effects
@@ -6954,7 +6954,7 @@
 			(pintype "passive")
 			(uuid "a2fa6edf-1e31-49f7-a0c4-940c0ffc2b74")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Green.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8254,7 +8254,7 @@
 		(descr "LED, diameter 3.0mm, 2 pins")
 		(tags "LED diameter 3.0mm 2 pins")
 		(property "Reference" "D18"
-			(at 1.27 -2.96 -75)
+			(at 1.27 -2.96 105)
 			(layer "F.SilkS")
 			(uuid "d5a3b6ac-602e-49f7-bbc0-041ae8168782")
 			(effects
@@ -8265,7 +8265,7 @@
 			)
 		)
 		(property "Value" "3mm G"
-			(at 1.27 2.96 -75)
+			(at 1.27 2.96 105)
 			(layer "F.Fab")
 			(uuid "7080fdef-4897-4bc9-af47-26cc895e7ec1")
 			(effects
@@ -8488,7 +8488,7 @@
 			(pintype "passive")
 			(uuid "d39c22c0-2c04-438c-979b-06993aeafa23")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Green.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8741,7 +8741,7 @@
 			(pintype "passive")
 			(uuid "e8a7f4ab-0edc-42b1-a978-330b7222cc09")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Green.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9933,7 +9933,7 @@
 		(descr "LED, diameter 3.0mm, 2 pins")
 		(tags "LED diameter 3.0mm 2 pins")
 		(property "Reference" "D19"
-			(at 1.27 -2.96 -90)
+			(at 1.27 -2.96 90)
 			(layer "F.SilkS")
 			(uuid "c1609431-dd21-42f5-8b32-968f62a21b8f")
 			(effects
@@ -9944,7 +9944,7 @@
 			)
 		)
 		(property "Value" "3mm G"
-			(at 1.27 2.96 -90)
+			(at 1.27 2.96 90)
 			(layer "F.Fab")
 			(uuid "61a4cd40-ba85-43cb-a01a-65f7140be787")
 			(effects
@@ -10167,7 +10167,7 @@
 			(pintype "passive")
 			(uuid "a315ef9c-980b-45e7-bc3d-18bec569c415")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Green.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10186,7 +10186,7 @@
 		(descr "LED, diameter 3.0mm, 2 pins")
 		(tags "LED diameter 3.0mm 2 pins")
 		(property "Reference" "D22"
-			(at 1.270001 -2.96 -135)
+			(at 1.270001 -2.96 45)
 			(layer "F.SilkS")
 			(uuid "1c259467-168d-4c36-b8f4-34e612c94080")
 			(effects
@@ -10197,7 +10197,7 @@
 			)
 		)
 		(property "Value" "3mm G"
-			(at 1.270001 2.96 -135)
+			(at 1.270001 2.96 45)
 			(layer "F.Fab")
 			(uuid "ce09e3a5-1bce-4db7-ac07-ea70f3ab00c2")
 			(effects
@@ -10420,7 +10420,7 @@
 			(pintype "passive")
 			(uuid "fca599f8-9aff-4e84-8119-5d5cc06c448e")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Green.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10990,7 +10990,7 @@
 			(pintype "passive")
 			(uuid "32e64b75-273d-476d-b5d1-8d4796d4a17b")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Green.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11243,7 +11243,7 @@
 			(pintype "passive")
 			(uuid "a78c8a9c-ad11-48da-8993-7e262009fae9")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Green.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11475,7 +11475,7 @@
 		(descr "LED, diameter 3.0mm, 2 pins")
 		(tags "LED diameter 3.0mm 2 pins")
 		(property "Reference" "D24"
-			(at 1.27 -2.96 -165)
+			(at 1.27 -2.96 15)
 			(layer "F.SilkS")
 			(uuid "7314e49e-38a6-4b30-a3fd-7fccf1a3958f")
 			(effects
@@ -11486,7 +11486,7 @@
 			)
 		)
 		(property "Value" "3mm G"
-			(at 1.27 2.96 -165)
+			(at 1.27 2.96 15)
 			(layer "F.Fab")
 			(uuid "95169680-7b85-48bd-8da6-a0d751f869a9")
 			(effects
@@ -11709,7 +11709,7 @@
 			(pintype "passive")
 			(uuid "6dec728a-ec4c-4065-9bb4-cd204949a0be")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Green.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13720,7 +13720,7 @@
 			(pintype "passive")
 			(uuid "25c2fa5d-0f02-4c65-b15a-46f29cb99d99")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14101,7 +14101,7 @@
 		(descr "LED, diameter 3.0mm, 2 pins")
 		(tags "LED diameter 3.0mm 2 pins")
 		(property "Reference" "D17"
-			(at 1.27 -2.96 -60)
+			(at 1.27 -2.96 120)
 			(layer "F.SilkS")
 			(uuid "db206d22-26a0-4d15-8288-a2173a29ddbd")
 			(effects
@@ -14112,7 +14112,7 @@
 			)
 		)
 		(property "Value" "3mm G"
-			(at 1.27 2.96 -60)
+			(at 1.27 2.96 120)
 			(layer "F.Fab")
 			(uuid "b481d983-e7a5-4813-b045-135ecc183525")
 			(effects
@@ -14335,7 +14335,7 @@
 			(pintype "passive")
 			(uuid "d375569d-5225-415d-b3cf-dea90f056510")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Green.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16741,7 +16741,7 @@
 		(descr "LED, diameter 3.0mm, 2 pins")
 		(tags "LED diameter 3.0mm 2 pins")
 		(property "Reference" "D14"
-			(at 1.27 -2.96 -15)
+			(at 1.27 -2.96 165)
 			(layer "F.SilkS")
 			(uuid "3fa2155f-4944-4215-945c-3c900eebf51d")
 			(effects
@@ -16752,7 +16752,7 @@
 			)
 		)
 		(property "Value" "3mm G"
-			(at 1.27 2.96 -15)
+			(at 1.27 2.96 165)
 			(layer "F.Fab")
 			(uuid "6772c281-b154-4ce7-be99-7c19e56d8527")
 			(effects
@@ -16975,7 +16975,7 @@
 			(pintype "passive")
 			(uuid "89df88e1-95e2-42ca-a508-7c77a37116c0")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Green.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18293,7 +18293,7 @@
 		(descr "LED, diameter 3.0mm, 2 pins")
 		(tags "LED diameter 3.0mm 2 pins")
 		(property "Reference" "D20"
-			(at 1.27 -2.96 -105)
+			(at 1.27 -2.96 75)
 			(layer "F.SilkS")
 			(uuid "4adc9d81-2f37-449a-a0d2-78321e1f3b07")
 			(effects
@@ -18304,7 +18304,7 @@
 			)
 		)
 		(property "Value" "3mm G"
-			(at 1.27 2.96 -105)
+			(at 1.27 2.96 75)
 			(layer "F.Fab")
 			(uuid "9e976c02-bf20-47f3-8f1c-bf54f55d08ce")
 			(effects
@@ -18527,7 +18527,7 @@
 			(pintype "passive")
 			(uuid "990b4b47-dce2-40ab-a273-94a10f2de387")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Green.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18759,7 +18759,7 @@
 		(descr "LED, diameter 3.0mm, 2 pins")
 		(tags "LED diameter 3.0mm 2 pins")
 		(property "Reference" "D15"
-			(at 1.27 -2.96 -30)
+			(at 1.27 -2.96 150)
 			(layer "F.SilkS")
 			(uuid "1bc31fd7-4b1c-4925-8984-08ceae1666ec")
 			(effects
@@ -18770,7 +18770,7 @@
 			)
 		)
 		(property "Value" "3mm G"
-			(at 1.27 2.96 -30)
+			(at 1.27 2.96 150)
 			(layer "F.Fab")
 			(uuid "6b01366e-2b65-4fc6-8899-1cf0e1cf61ca")
 			(effects
@@ -18993,7 +18993,7 @@
 			(pintype "passive")
 			(uuid "798f9773-2298-454b-99e0-682f56884b55")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Green.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19640,7 +19640,7 @@
 			(pintype "passive")
 			(uuid "6f57b897-ca79-4a3d-879f-ccd01ba9729a")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Yellow.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20201,7 +20201,7 @@
 		)
 		(fp_arc
 			(start -10.5143 -3.62)
-			(mid -9.309292 -6.078036)
+			(mid -9.309293 -6.078036)
 			(end -7.5436 -8.17)
 			(stroke
 				(width 0.12)
@@ -20750,7 +20750,7 @@
 		)
 		(fp_arc
 			(start -10.5143 -3.62)
-			(mid -9.309292 -6.078036)
+			(mid -9.309293 -6.078036)
 			(end -7.5436 -8.17)
 			(stroke
 				(width 0.12)
