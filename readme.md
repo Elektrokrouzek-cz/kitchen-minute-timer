@@ -8,3 +8,6 @@ PCB is 4-layer and was designed using KiCad 8. Fabrication output for JLCPCB is 
 Happy soldering!
 
 ![3D view](doc/3d_view.png)
+![PCB Top](doc/pcb_photo_top.png)
+![PCB Bottom](doc/pcb_photo_bottom.png)
+![Photo](doc/photo.png)
